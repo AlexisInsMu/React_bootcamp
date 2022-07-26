@@ -25,3 +25,5 @@ yarn-error.log*
 *.svg
 *.png
 *.ico
+
+/courseinfo
